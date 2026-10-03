@@ -1,0 +1,34 @@
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\appsettings.json
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.staticwebassets.endpoints.json
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.exe
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.deps.json
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.dll
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Projetos API.pdb
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\scopedcss\bundle\Projetos API.styles.css
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos.B0AD728D.Up2Date
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.dll
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\refint\Projetos API.dll
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.pdb
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\Projetos API.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projetos API\obj\Debug\net10.0\ref\Projetos API.dll
+C:\Users\Pichau\Desktop\Projetos API\bin\Debug\net10.0\cidades.json
